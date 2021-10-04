@@ -76,7 +76,7 @@ section {
     height: 600px;
     background-size: cover;
     background-position: center;
-    position: static;
+    position: relative;
 }
 
 /* Hero Form Style */

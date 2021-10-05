@@ -93,7 +93,7 @@ section {
 }
 
 .hero-form h3 {
-    font-size: x-large;
+    font-size: 24px;
     margin: 0;
 }
 
@@ -129,6 +129,14 @@ button {
     text-align: center;
 }
 
+.intro p {
+    line-height: 1.7;
+    color: #39a6b2;
+    width: 80%;
+    font-size: 20px;
+    margin: 0 auto;
+}
+
 .section-title {
     font-size: 55px;
     color: #024e76;
@@ -140,14 +148,6 @@ button {
 
 .primary-border {
     border-color: #fce138;
-}
-
-.intro p {
-    line-height: 1.7;
-    color: #39a6b2;
-    width: 80%;
-    font-size: 20px;
-    margin: 0 auto;
 }
 /* What we do & general section styles end */
 

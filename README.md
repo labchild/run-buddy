@@ -13,4 +13,4 @@ https://labchild.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Lelah
 
-### &copy2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc 
